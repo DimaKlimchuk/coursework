@@ -12,5 +12,5 @@ int Calculator::Sub (double a, double b)
 
 int Calculator::Mul (double a, double b)
 {
-    return a * b + 0.5;
+    return a * b + 2;// here I changed 0.5 to 2
 }
